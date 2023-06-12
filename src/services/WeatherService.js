@@ -1,6 +1,6 @@
 import { DateTime } from "luxon";
 import axios from 'axios';
-const API_KEY = '49cc8c821cd2aff9af04c9f98c36eb74';
+const API_KEY = 'fe4feefa8543e06d4f3c66d92c61b69c';
 // const base_url = 'https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}'
 const base_url = 'https://api.openweathermap.org/data/2.5'
 
